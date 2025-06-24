@@ -22,7 +22,30 @@ Apasionado por apoyar a pequeñas empresas con soluciones tecnologicas, estrateg
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras)&nbsp;
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=python)&nbsp;
+![Tkinter](https://img.shields.io/badge/Tkinter-gray?style=for-the-badge&logo=python)
+
+#### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Tools and Technologies
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge)&nbsp;
+![DOCKER](https://img.shields.io/badge/DOCKER-white?style=for-the-badge&logo=docker)&nbsp;
+![Springboot](https://img.shields.io/badge/Springboot-black?style=for-the-badge&logo=springboot)
+
+
+#### IDEs
+
+![Jupyter](https://img.shields.io/badge/Jupyter-white?style=for-the-badge&logo=jupyter)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge)
+
+
 
 <!--
 **YussefRo/YussefRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
