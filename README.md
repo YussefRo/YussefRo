@@ -36,6 +36,7 @@ Apasionado por apoyar a pequeñas empresas con soluciones tecnologicas, estrateg
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge)&nbsp;
 ![DOCKER](https://img.shields.io/badge/DOCKER-white?style=for-the-badge&logo=docker)&nbsp;
+![Static Badge](https://img.shields.io/badge/Azure%20DevOps-blue?style=for-the-badge)&nbsp;
 ![Springboot](https://img.shields.io/badge/Springboot-black?style=for-the-badge&logo=springboot)
 
 
