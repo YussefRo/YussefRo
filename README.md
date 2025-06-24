@@ -1,4 +1,28 @@
-## Hi there 👋
+### Hola, soy [Yussef Rodriguez](https://www.linkedin.com/in/yussef-rodriguez) 👋
+
+Ingeniero en computación con 3 años de experiencia como desarrollador back-end, especializado en la creación de soluciones escalables en Java, Python y C#, con sólidos conocimientos en bases de datos como SQL Server, PostgreSQL y Oracle. Me destaco por mi capacidad para estructurar proyectos robustos, implementar buenas prácticas y liderar equipos de desarrollo. 
+
+Recientemente he completado un bootcamp de Data Science en [TripleTen](https://tripleten.com/es-mex/?from=us), fortaleciendo mis habilidades analíticas y mi enfoque en el procesamiento de datos. Mi perfil une lo mejor del desarrollo de software con una visión analítica, aportando soluciones técnicas que generan valor real. 
+
+Apasionado por apoyar a pequeñas empresas con soluciones tecnologicas, estrategias del marco Agile y con un gran gusto por las finanzas.
+
+## Skills:
+
+#### Languages:
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%20%23-purple?style=for-the-badge&logo=dotnet)&nbsp;
+![C++](https://img.shields.io/badge/C%20%2B%2B-blue?style=for-the-badge&logo=cplusplus)&nbsp;
+
+#### ML/DL
+
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-%23D00000?style=for-the-badge&logo=keras)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 <!--
 **YussefRo/YussefRo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
