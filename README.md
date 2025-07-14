@@ -4,8 +4,6 @@ Ingeniero en computación con 3 años de experiencia como desarrollador back-end
 
 Recientemente he completado un bootcamp de Data Science en [TripleTen](https://tripleten.com/es-mex/?from=us), fortaleciendo mis habilidades analíticas y mi enfoque en el procesamiento de datos. Mi perfil une lo mejor del desarrollo de software con una visión analítica, aportando soluciones técnicas que generan valor real. 
 
-Apasionado por apoyar a pequeñas empresas con soluciones tecnologicas, estrategias del marco Agile y con un gran gusto por las finanzas.
-
 ## Skills:
 
 #### Languages:
